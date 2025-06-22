@@ -1,0 +1,151 @@
+Store ID,City,State,Sales Region,New Expansion,Marketing Spend,Revenue,profit,ROM
+1,Peoria,Arizona,Region 2,Old,2601,48610,46009,17.69
+2,Midland,Texas,Region 2,Old,2727,45689,42962,15.75
+3,Spokane,Washington,Region 2,Old,2768,49554,46786,16.9
+4,Denton,Texas,Region 2,Old,2759,38284,35525,12.88
+5,Overland Park,Kansas,Region 2,Old,2869,59887,57018,19.87
+6,Yonkers,New York,Region 1,Old,3080,53827,50747,16.48
+7,Birmingham,Alabama,Region 1,Old,3110,60338,57228,18.4
+8,Antioch,California,Region 2,Old,2593,19569,16976,6.55
+9,Worcester,Massachusetts,Region 1,Old,2675,59840,57165,21.37
+10,Rochester,New York,Region 1,Old,2984,64906,61922,20.75
+11,Rialto,California,Region 2,Old,2541,16860,14319,5.64
+12,Santa Maria,California,Region 2,Old,2651,21988,19337,7.29
+13,Las Cruces,New Mexico,Region 2,Old,2895,19888,16993,5.87
+14,Jackson,Mississippi,Region 1,Old,3466,54701,51235,14.78
+15,Hillsboro,Oregon,Region 2,Old,2686,18471,15785,5.88
+16,Temecula,California,Region 2,Old,2795,16690,13895,4.97
+17,Tallahassee,Florida,Region 1,Old,2737,47729,44992,16.44
+18,Fontana,California,Region 2,Old,3085,63027,59942,19.43
+19,Kent,Washington,Region 2,Old,2894,43183,40289,13.92
+20,Broken Arrow,Oklahoma,Region 2,Old,2765,19120,16355,5.92
+21,Concord,California,Region 2,Old,2521,38178,35657,14.14
+22,Modesto,California,Region 2,Old,3077,56836,53759,17.47
+23,Montgomery,Alabama,Region 1,Old,3287,52114,48827,14.85
+24,Burbank,California,Region 2,Old,3679,20123,16444,4.47
+25,Elk Grove,California,Region 2,Old,2918,49856,46938,16.09
+26,Port St. Lucie,Florida,Region 1,Old,2420,55790,53370,22.05
+27,Elizabeth,New Jersey,Region 1,Old,2557,45017,42460,16.61
+28,Salt Lake City,Utah,Region 2,Old,3620,56921,53301,14.72
+29,Waco,Texas,Region 2,Old,2483,39744,37261,15.01
+30,Edison,New Jersey,Region 1,Old,3131,22972,19841,6.34
+31,Boulder,Colorado,Region 2,Old,3083,22680,19597,6.36
+32,Grand Rapids,Michigan,Region 1,Old,2808,65475,62667,22.32
+33,Tyler,Texas,Region 2,Old,2984,21718,18734,6.28
+34,Charleston,South Carolina,Region 1,Old,2484,34829,32345,13.02
+35,Huntsville,Alabama,Region 1,Old,3335,59283,55948,16.78
+36,Pearland,Texas,Region 2,Old,3127,20057,16930,5.41
+37,Inglewood,California,Region 2,Old,2904,20455,17551,6.04
+38,Oxnard,California,Region 2,Old,2318,64302,61984,26.74
+39,Miramar,Florida,Region 1,Old,3488,49506,46018,13.19
+40,Cape Coral,Florida,Region 1,Old,2886,52250,49364,17.1
+41,Syracuse,New York,Region 1,Old,2373,41313,38940,16.41
+42,Newport News,Virginia,Region 1,Old,2758,57625,54867,19.89
+43,Lewisville,Texas,Region 2,Old,2607,16029,13422,5.15
+44,Carrollton,Texas,Region 2,Old,3146,49191,46045,14.64
+45,San Bernardino,California,Region 2,Old,3399,59870,56471,16.61
+46,Pasadena,California,Region 2,Old,2790,48254,45464,16.3
+47,Roseville,California,Region 2,Old,3220,43397,40177,12.48
+48,Murrieta,California,Region 2,Old,2344,16372,14028,5.98
+49,San Angelo,Texas,Region 2,Old,2939,50233,47294,16.09
+50,Olathe,Kansas,Region 2,Old,3082,41460,38378,12.45
+51,Akron,Ohio,Region 1,Old,2338,50364,48026,20.54
+52,Fullerton,California,Region 2,Old,3246,44223,40977,12.62
+53,Manchester,New Hampshire,Region 1,Old,2374,17006,14632,6.16
+54,Everett,Washington,Region 2,Old,3129,15562,12433,3.97
+55,West Covina,California,Region 2,Old,2939,21824,18885,6.43
+56,Thornton,Colorado,Region 2,Old,2642,46490,43848,16.6
+57,Hampton,Virginia,Region 1,Old,2871,38782,35911,12.51
+58,Waterbury,Connecticut,Region 1,Old,3392,19350,15958,4.7
+59,Ventura,California,Region 2,Old,3228,16652,13424,4.16
+60,Davenport,Iowa,Region 1,Old,3175,23764,20589,6.48
+61,Columbia,South Carolina,Region 1,Old,2874,42803,39929,13.89
+62,Simi Valley,California,Region 2,Old,2792,41110,38318,13.72
+63,Richmond,California,Region 2,Old,3924,19448,15524,3.96
+64,Little Rock,Arkansas,Region 2,Old,2440,68828,66388,27.21
+65,El Cajon,California,Region 2,Old,2950,19529,16579,5.62
+66,Santa Clara,California,Region 2,Old,2462,29008,26546,10.78
+67,Oceanside,California,Region 2,Old,3084,55684,52600,17.06
+68,Davie,Florida,Region 1,Old,3177,45418,42241,13.3
+69,Lakeland,Florida,Region 1,Old,3003,18297,15294,5.09
+70,Centennial,Colorado,Region 2,Old,3697,18966,15269,4.13
+71,Lowell,Massachusetts,Region 1,Old,2857,18838,15981,5.59
+72,Ontario,California,Region 2,Old,3168,52078,48910,15.44
+73,Palm Bay,Florida,Region 1,Old,2943,25321,22378,7.6
+74,Murfreesboro,Tennessee,Region 2,Old,2777,40545,37768,13.6
+75,Vancouver,Washington,Region 2,Old,3329,58951,55622,16.71
+76,Topeka,Kansas,Region 2,Old,2854,40921,38067,13.34
+77,West Valley City,Utah,Region 2,Old,2555,49609,47054,18.42
+78,New Haven,Connecticut,Region 1,Old,3162,45550,42388,13.41
+79,Pueblo,Colorado,Region 2,Old,2928,19563,16635,5.68
+80,Costa Mesa,California,Region 2,Old,2275,41361,39086,17.18
+81,Garden Grove,California,Region 2,Old,3285,57530,54245,16.51
+82,Fort Lauderdale,Florida,Region 1,Old,3217,54768,51551,16.02
+83,North Charleston,South Carolina,Region 1,Old,3115,18754,15639,5.02
+84,Cambridge,Massachusetts,Region 1,Old,2779,21286,18507,6.66
+85,Greeley,Colorado,Region 2,Old,3277,48796,45519,13.89
+86,Gresham,Oregon,Region 2,Old,2745,19708,16963,6.18
+87,Amarillo,Texas,Region 2,Old,3984,56089,52105,13.08
+88,High Point,North Carolina,Region 1,Old,3262,19752,16490,5.06
+89,Vista,California,Region 2,Old,2718,20949,18231,6.71
+90,Tacoma,Washington,Region 2,Old,2552,45666,43114,16.89
+91,Mesquite,Texas,Region 2,Old,3072,40779,37707,12.27
+92,Augusta,Georgia,Region 1,Old,2676,47482,44806,16.74
+93,Elgin,Illinois,Region 1,Old,2553,18215,15662,6.13
+94,Aurora,Illinois,Region 1,Old,2685,50650,47965,17.86
+95,Gainesville,Florida,Region 1,Old,2990,48933,45943,15.37
+96,Dayton,Ohio,Region 1,Old,2805,42026,39221,13.98
+97,Wichita Falls,Texas,Region 2,Old,2846,15735,12889,4.53
+98,Naperville,Illinois,Region 1,Old,2699,39856,37157,13.77
+99,Clovis,California,Region 2,Old,2901,20669,17768,6.12
+100,Billings,Montana,Region 1,Old,3015,20541,17526,5.81
+101,Surprise,Arizona,Region 2,Old,2160,33647,31487,14.58
+102,Coral Springs,Florida,Region 1,Old,3079,41319,38240,12.42
+103,Visalia,California,Region 2,Old,2104,45632,43528,20.69
+104,Killeen,Texas,Region 2,Old,2962,43773,40811,13.78
+105,Orange,California,Region 2,Old,2830,36821,33991,12.01
+106,Richardson,Texas,Region 2,Old,3228,22824,19596,6.07
+107,South Bend,Indiana,Region 1,Old,3005,21953,18948,6.31
+108,Fayetteville,North Carolina,Region 1,Old,3020,51229,48209,15.96
+109,Sioux Falls,South Dakota,Region 1,Old,2947,50583,47636,16.16
+110,Grand Prairie,Texas,Region 2,Old,3131,50895,47764,15.26
+111,Stamford,Connecticut,Region 1,Old,2901,46503,43602,15.03
+112,West Palm Beach,Florida,Region 1,Old,2926,18089,15163,5.18
+113,Knoxville,Tennessee,Region 2,Old,3086,56504,53418,17.31
+114,Renton,Washington,Region 2,Old,2754,44635,41881,15.21
+115,McAllen,Texas,Region 2,Old,2282,43924,41642,18.25
+116,Woodbridge,New Jersey,Region 1,Old,3319,19811,16492,4.97
+117,Shreveport,Louisiana,Region 1,Old,3081,56140,53059,17.22
+118,Bellevue,Washington,Region 2,Old,2542,40462,37920,14.92
+119,Huntington Beach,California,Region 2,Old,2527,54145,51618,20.43
+120,Santa Clarita,California,Region 2,Old,2967,51882,48915,16.49
+121,Sterling Heights,Michigan,Region 1,Old,2357,35022,32665,13.86
+122,Mobile,Alabama,Region 1,Old,2838,49290,46452,16.37
+123,Bridgeport,Connecticut,Region 1,Old,2914,47108,44194,15.17
+124,Daly City,California,Region 2,Old,2658,20703,18045,6.79
+125,Rochester,Minnesota,Region 1,Old,2854,18099,15245,5.34
+126,Sandy Springs,Georgia,Region 1,Old,2759,18942,16183,5.87
+127,Cedar Rapids,Iowa,Region 1,Old,2553,52072,49519,19.4
+128,Columbus,Georgia,Region 1,Old,2877,55203,52326,18.19
+129,Moreno Valley,California,Region 2,Old,3507,59254,55747,15.9
+130,Pompano Beach,Florida,Region 1,Old,2608,21603,18995,7.28
+131,Savannah,Georgia,Region 1,Old,2028,36029,34001,16.77
+132,West Jordan,Utah,Region 2,Old,2773,21056,18283,6.59
+133,Des Moines,Iowa,Region 1,Old,2995,57432,54437,18.18
+134,Green Bay,Wisconsin,Region 1,Old,3586,18454,14868,4.15
+135,Santa Rosa,California,Region 2,Old,3067,59060,55993,18.26
+136,San Mateo,California,Region 2,Old,1811,19426,17615,9.73
+137,Warren,Michigan,Region 1,Old,2736,47262,44526,16.27
+138,Norwalk,California,Region 2,Old,3112,19703,16591,5.33
+139,Lafayette,Louisiana,Region 1,Old,2603,40255,37652,14.46
+140,Providence,Rhode Island,Region 1,Old,3191,62337,59146,18.54
+141,Chattanooga,Tennessee,Region 2,New,3587,55357,51770,14.43
+142,Tempe,Arizona,Region 2,New,2911,48954,46043,15.82
+143,Joliet,Illinois,Region 1,New,3279,48315,45036,13.73
+144,Rancho Cucamonga,California,Region 2,New,2945,52366,49421,16.78
+145,Glendale,California,Region 2,New,2363,49376,47013,19.9
+146,Paterson,New Jersey,Region 1,New,2251,34603,32352,14.37
+147,Brownsville,Texas,Region 2,New,3675,63148,59473,16.18
+148,Rockford,Illinois,Region 1,New,2648,43377,40729,15.38
+149,College Station,Texas,Region 2,New,2994,22457,19463,6.5
+150,Thousand Oaks,California,Region 2,New,2431,40141,37710,15.51
